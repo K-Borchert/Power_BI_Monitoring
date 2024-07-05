@@ -1,0 +1,9 @@
+{
+	"name": "adf-kbo-pbimon-0",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "610d324f-7c84-48ce-aba7-faadfbfa7297",
+		"tenantId": "b62a0723-a77f-47b4-b911-99746652bf2a"
+	}
+}
