@@ -15,9 +15,9 @@
 		"typeProperties": {
 			"recurrence": {
 				"frequency": "Hour",
-				"interval": 24,
+				"interval": 1,
 				"startTime": "2024-02-22T06:30:00",
-				"timeZone": "Central European Standard Time"
+				"timeZone": "W. Europe Standard Time"
 			}
 		}
 	}
