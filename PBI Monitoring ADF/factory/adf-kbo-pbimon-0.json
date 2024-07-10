@@ -5,6 +5,10 @@
 			"token_url": {
 				"type": "string",
 				"value": "https://login.mirosoftonline.com/b62a0723-a77f-47b4-b911-99746652bf2a/oath2/token"
+			},
+			"kv_app_secret_url": {
+				"type": "string",
+				"value": "https://kv-kbo-pbimon-0.vault.azure.net/secrets/secret-pbimon-app-reg-secret"
 			}
 		}
 	},
