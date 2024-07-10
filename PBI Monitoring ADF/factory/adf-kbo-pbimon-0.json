@@ -1,5 +1,13 @@
 {
 	"name": "adf-kbo-pbimon-0",
+	"properties": {
+		"globalParameters": {
+			"token_url": {
+				"type": "string",
+				"value": "https://login.mirosoftonline.com/b62a0723-a77f-47b4-b911-99746652bf2a/oath2/token"
+			}
+		}
+	},
 	"location": "northeurope",
 	"identity": {
 		"type": "SystemAssigned",
