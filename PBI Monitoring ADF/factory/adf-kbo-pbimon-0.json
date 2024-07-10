@@ -8,7 +8,7 @@
 			},
 			"kv_app_secret_url": {
 				"type": "string",
-				"value": "https://kv-kbo-pbimon-0.vault.azure.net/secrets/secret-pbimon-app-reg-secret"
+				"value": "https://kv-kbo-pbimon-0.vault.azure.net/secrets/secret-pbimon-app-reg-secret/?api-version=7.0"
 			},
 			"app_client_id": {
 				"type": "string",
